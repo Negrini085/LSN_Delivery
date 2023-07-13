@@ -1,0 +1,9 @@
+1
+10
+200
+1000
+
+    ReadInput >> migrazione (0 è no, ogni altro input è si)
+    ReadInput >> numero di migrazioni
+    ReadInput >> grandezza popolazione
+    ReadInput >> numero di generazioni
