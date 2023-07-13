@@ -1,1 +1,6 @@
-SIMULAZIONE_NUMERICA
+<center> LSN_Delivery </center>
+
+Questa cartella contiene tutti i materiali prodotti durante il corso di LSN. Le esercitazioni sono organizzate in cartelle ed i risultati sono riportati ed argomentati nei jupiter notebook Relazione_(numero esercitazione).ipynb
+
+
+In alcune esercitazioni è stato utilizzato il generatore di numeri casuali: le librerie necessarie si trovano in RANDOM_GEN. Per configurare l'ambiente di lavoro si deve usare setup.sh
