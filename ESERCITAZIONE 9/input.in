@@ -1,0 +1,9 @@
+34
+0
+300
+1000
+
+    ReadInput >> numero di città
+    ReadInput >> forma "mappa"
+    ReadInput >> grandezza popolazione
+    ReadInput >> numero di generazioni
