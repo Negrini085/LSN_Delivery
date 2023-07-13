@@ -1,0 +1,23 @@
+1
+0
+0.8
+108
+1.1
+2.2
+0.12
+500000
+1
+100
+10000
+
+  ReadInput >> iNVET; 0=MD(NVE) 1=MC(NVT)
+  ReadInput >> restart;
+  ReadInput >> temp; (0.8 MC - 1.542 MD)
+  ReadInput >> npart;
+  ReadInput >> rho;
+  ReadInput >> rcut;
+  ReadInput >> delta; (0.0005 MD - 0.12 MC)
+  ReadInput >> nblk;
+  ReadInput >> nstep;
+  ReadInput >> nbins;
+  ReadInput >> term; (quante move devo fare per giungere a termalizzazione) (10000 MC - 300 MD)
