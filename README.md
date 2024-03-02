@@ -1,6 +1,4 @@
-<center> 
-# LSN_Delivery 
-</center>
+# Laboratorio di Simulazione Numerica
 
 Questa cartella contiene tutti i materiali prodotti durante il corso di LSN. Le esercitazioni sono organizzate in cartelle ed i risultati sono riportati ed argomentati nei jupiter notebook Relazione_(numero esercitazione).ipynb
 
