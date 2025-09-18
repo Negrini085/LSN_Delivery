@@ -37,6 +37,12 @@ int main()
   }
   ConfFinal(); //Write final configuration
 
+  double appo;
+  for(int iblk=1; iblk <= nblk; ++iblk){
+    appo = rnd.Rannyu();
+  }
+
+
   return 0;
 }
 
@@ -121,6 +127,7 @@ void Input(void)
   Measure();
 
   //Print initial values for measured properties
+  cout << double(nspin) << endl;
   cout << "Initial energy per particle      = " << walker[iu]/(double)nspin << endl;
   cout << "Initial magnetization            = " << walker[im] << endl << endl;
 
@@ -305,7 +312,7 @@ void Averages(int iblk) //Print results for current block
     Heat.close();
     Mag.close();
     Chi.close();
-
+    
     cout << "----------------------------" << endl << endl;
 }
 

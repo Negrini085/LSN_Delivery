@@ -30,7 +30,7 @@ double stima_u,stima_c,stima_m,stima_x,stima_g;
 double err_u,err_c,err_m,err_x,err_g;
 
 //configuration
-const int m_spin=50;
+const int m_spin=1000;
 double s[m_spin];
 
 // thermodynamical state
